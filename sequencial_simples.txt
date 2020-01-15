@@ -1,0 +1,6 @@
+Este é um gráfico de barras verticais.
+Seu título é CRG das Turmas de Engenharia da Computação.
+A legenda do eixo y é Média da Turma em pontos.
+A legenda do eixo x é Anos.
+O gráfico possui 7 barras.
+A primeira barra é 2012 e apresenta valor 7,6. A segunda barra é 2013 e apresenta valor 6,2. A terceira barra é 2014 e apresenta valor 8,1. A quarta barra é 2015 e apresenta valor 5,5. A quinta barra é 2016 e apresenta valor 7,3. A sexta barra é 2017 e apresenta valor 6,8. A sétima barra é 2018 e apresenta valor 5.

@@ -1,0 +1,7 @@
+Este é um gráfico de barras verticais agrupadas.
+A legenda do gráfico é Imagem 1. Média dos valores de despesas individuais de jovens de classe média na cidade de Belém no primeiro trimestre de 2018.
+A legenda do eixo y é denominada Valor em reais.
+A legenda do eixo x é denominada mês.
+O gráfico é composto por 3 grupos de barras denominados: Janeiro, Fevereiro e Março.
+Cada grupo contém 3 barras: Alimentação, Transporte e Lazer.
+O primeiro conjunto de barras é janeiro e possui valores 200, 250 e 100. O segundo conjunto de barras é fevereiro e possui valores 160, 209 e 134. O terceiro conjunto de barras é março e possui valores 243, 234 e 167.
